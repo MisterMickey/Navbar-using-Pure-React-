@@ -1,0 +1,11 @@
+Higher Order Function (map,filter & reduce)
+
+
+
+map : This HOF is used to map all array value to our desired transformed value
+
+filter : This HOF is used to filter all array elements on the basis of a given condition
+
+reduce : it is used to derive a single value from all array elements, additionaly it requires two parameter, on is the callback function
+        and the other one is the initial value of accumulator,
+        This callback function further needs two parameters, acc(accumulator), and curr(current).
