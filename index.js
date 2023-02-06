@@ -45,7 +45,7 @@ const navBar = React.createElement("nav",{},ul)
 
 //creating image component
 const mickeyImage = React.createElement("img",{
-    src : "/Day 5/images/mickey.png",
+    src : "./images/mickey.png",
     style : {
         width : "100px",
         height : "auto",
